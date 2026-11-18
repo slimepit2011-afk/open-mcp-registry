@@ -1,0 +1,19 @@
+{
+  "name": "open-mcp-registry",
+  "version": "1.0.0",
+  "description": "A decentralized community index of verified Model Context Protocol (MCP) servers.",
+  "main": "registry.json",
+  "scripts": {
+    "test": "node scripts/validate.js",
+    "validate": "node scripts/validate.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "ai-agents",
+    "registry"
+  ],
+  "author": "slimepit2011-afk",
+  "license": "MIT"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "playwright",
+    "name": "Playwright Browser MCP",
+    "category": "browser-automation",
+    "description": "Headless Chromium and browser automation server for web interaction.",
+    "repository": "https://github.com/executeautomation/playwright-mcp-server",
+    "protocol": "stdio",
+    "verified": true
+  },
+  {
+    "id": "postgres",
+    "name": "PostgreSQL MCP Server",
+    "category": "database",
+    "description": "Read-only and transactional PostgreSQL database inspector and runner.",
+    "repository": "https://github.com/modelcontextprotocol/servers",
+    "protocol": "stdio",
+    "verified": true
+  },
+  {
+    "id": "sqlite",
+    "name": "SQLite MCP Server",
+    "category": "database",
+    "description": "Local SQLite database inspection and querying capabilities.",
+    "repository": "https://github.com/modelcontextprotocol/servers",
+    "protocol": "stdio",
+    "verified": true
+  },
+  {
+    "id": "memory-graph",
+    "name": "Context Memory MCP",
+    "category": "memory",
+    "description": "Persistent knowledge graph memory system for AI agent state.",
+    "repository": "https://github.com/modelcontextprotocol/servers",
+    "protocol": "stdio",
+    "verified": true
+  },
+  {
+    "id": "filesystem",
+    "name": "Secure Filesystem MCP",
+    "category": "system",
+    "description": "Sandboxed filesystem access with configurable directory permissions.",
+    "repository": "https://github.com/modelcontextprotocol/servers",
+    "protocol": "stdio",
+    "verified": true
+  }
+]
